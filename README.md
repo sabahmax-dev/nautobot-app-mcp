@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/283d68c2-d35f-4506-b909-45c1850e7281
 pip install nautobot-mcp
 ```
 
-### 2. Add to INSTALLED_APPS in your Nautobot configuration
+### 2. Add to PLUGINS in your Nautobot configuration
 
 ```python
 # In your nautobot_config.py
@@ -138,4 +138,4 @@ This page shows all available tools, their descriptions, module paths, and param
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details. 
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
